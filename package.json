@@ -1,0 +1,27 @@
+{
+  "name": "sigfigs",
+  "version": "1.0.0",
+  "description": "Significant Figures, or \"sigfigs\" are used to determine how exact a number is. This is relevant when rounding decimal numbers. JavaScript, as many programming languages, struggle with rounding decimal numbers (floats).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannasoderstromdev/sigfigs.git"
+  },
+  "keywords": [],
+  "author": "Hanna Söderström",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannasoderstromdev/sigfigs/issues"
+  },
+  "homepage": "https://github.com/hannasoderstromdev/sigfigs#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.2.5",
+    "ts-jest": "^27.0.6",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  }
+}
